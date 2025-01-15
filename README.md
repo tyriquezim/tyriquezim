@@ -24,5 +24,5 @@ I have experience coding in the Java, Python, Kotlin and C programming languages
 I'm currently working on a Pentago application in Kotlin for the Android operating system.
 
 ### Skills in Progress
-I'm currently learning how to program in JavaScript with intention of eventually learning how to create web applications. I also intend on learning Swift so that I can work on creating iOS applications.
+I'm currently learning how to program in JavaScript with the intention of eventually learning how to create web applications. I also intend on learning Swift so that I can work on creating iOS applications.
 
