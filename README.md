@@ -21,7 +21,7 @@ I'm a Computer Science student based in Australia with an interest in mobile app
 I have experience coding in the Java, Python, Kotlin and C programming languages. 
 
 ### Current Project(s)
-I'm currently working on a calorie tracking application in Kotlin for the Android operating system.
+I'm currently working on a food and exercise logging application in Kotlin for the Android operating system.
 
 ### Skills in Progress
 I'm currently learning how to program in JavaScript with the intention of eventually learning how to create web applications. I also intend on learning Swift so that I can work on creating iOS applications.
