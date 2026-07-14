@@ -21,7 +21,7 @@ I'm a Computer Science student based in Australia with an interest in mobile app
 I have experience coding in the Java, Python, Kotlin, Swift, JavaScript and C programming languages. 
 
 ### Current Project(s)
-I'm currently working on PantryPal, a web application that suggests recipes to users based on what ingredients they have available to them.
+I'm currently working on GymBro, a multi-platform application that tracks gym progress, exercise information and workout session progress.
 
 ### Skills in Progress
 I'm currently learning web application concepts such as user authentification, integrating third party APIs and incorporating databases into web applications. I also plan on learning how to develop applications using the .NET framework.
